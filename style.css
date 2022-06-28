@@ -40,3 +40,11 @@ nav ul li a {
 .about p {
     text-align: center;
 }
+
+footer ul li {
+    display: inline-block;
+}
+
+ul li a {
+    justify-content: center;
+}
